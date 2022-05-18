@@ -19,8 +19,8 @@ The case is designed for 3D printing
 | :---: | :---: | :---: |
 |Front   | 1     | printed |
 | Back  | 1       | printed |
-| Button| 1 | printed |
-| Clips   | 2       | printed |
-| Lock pin   | 2      | printed |
-| Spacer | 1 | printed |
-| Bolts | 4 | purchares  AN745 3x20 |
+| [Button](https://github.com/boneIO-eu/case_bbb/tree/main/.stl%20files)| 1 | printed |
+| [Clips](https://github.com/boneIO-eu/case_bbb/tree/main/.stl%20files) | 2       | printed |
+| [Lock pin](https://github.com/boneIO-eu/case_bbb/tree/main/.stl%20files) | 2      | printed |
+| [Spacer](https://github.com/boneIO-eu/case_bbb/tree/main/.stl%20files)| 1 | printed |
+| [Bolts](https://github.com/boneIO-eu/case_bbb/tree/main/.stl%20files)| 4 | purchares  AN745 3x20 |
