@@ -11,6 +11,7 @@ The case is designed for 3D printing
 | :---: | :---: |
 | input ESP v0.2   | 🟢 |
 | relays boards    | 🟢 |
+| expansion board  | 🟢 |
 | 1/2 relays boards| 🔴 |
 
 # Bill of Materials for one case
