@@ -7,12 +7,12 @@ The case is designed for 3D printing
 
 # Compatibile with boards
 
-|  | Case ESP v0.1 |
-| :---: | :---: |
-| input ESP v0.2   | 🟢 |
-| relays boards    | 🟢 |
-| expansion board  | 🟢 |
-| 1/2 relays boards| 🔴 |
+|  | Case ESP v0.1 | Case ESP v0.2 |
+| :---: | :---: | :---: |
+| input ESP v0.2   | 🟢 | 🟢 |
+| relays boards    | 🟢 | 🟢 |
+| expansion board  | 🟢 | 🔴 |
+| 1/2 relays boards| 🔴 | 🔴 |
 
 # Bill of Materials for one case
 | Name | pcs. | Notes|
