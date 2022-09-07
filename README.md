@@ -7,7 +7,7 @@ The case is designed for 3D printing
 
 # Compatibile with boards
 
-|  | Case ESP v0.1 | Case ESP v0.2 |
+|  | Case ESP v0.1 | Case ESP v0.2, v0.3, v0.4 |
 | :---: | :---: | :---: |
 | input ESP v0.2   | 🟢 | 🟢 |
 | relays boards    | 🟢 | 🟢 |
