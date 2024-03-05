@@ -22,4 +22,4 @@ The case is designed for 3D printing
 | Back  | 1       | printed |
 | Button | 1 | printed |
 | Clips  | 2       | purchased Gianta DxMG-WALL CLIP |
-| Bolts| 4 | purchased  AN745 3x20 |
+| Bolts| 4 | purchased  AN745 3x25 |
