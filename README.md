@@ -4,7 +4,9 @@ The case is designed for 3D printing
 * Recomended color GRAY, for button BLUE
   
 
-![esp case right down corner](https://github.com/boneIO-eu/case_esp/assets/70077751/772e2847-cfe8-4233-9f45-8e5dc620043d)
+![esp v0 6 case](https://github.com/boneIO-eu/case_esp/assets/70077751/fea037be-4a02-4621-843d-14541431e425)
+
+
 
 # Compatibile with boards
 
@@ -19,7 +21,10 @@ The case is designed for 3D printing
 | Name | pcs. | Notes|
 | :---: | :---: | :---: |
 | Front   | 1     | printed |
+| Middle  | 1     | printed |
+| Bottom  | 1     | printed |
 | Back  | 1       | printed |
 | Button | 1 | printed |
+| OLED Mount | 1  | printed |
 | Clips  | 2       | purchased Gianta DxMG-WALL CLIP |
-| Bolts| 4 | purchased  AN745 3x25 |
+| Bolts| 8 | purchased  AN745 3x25 |
