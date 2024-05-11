@@ -10,7 +10,7 @@ The case is designed for 3D printing
 
 # Compatibile with boards
 
-|  | Case ESP v0.1 | Case ESP v0.2 - v0.5 | Case ESP v0.6 | Case ESP v0.7 |
+|  | Case ESP v0.1 | Case ESP v0.2 - v0.5 | Case ESP v0.6 | Case ESP v0.7 - v0.8|
 | :---: | :---: | :---: | :---: | :---: |
 | input ESP v0.6| 🔴 | 🔴 | 🟢 | 🟢 |
 | input ESP v0.5| 🔴 | 🟢 | 🔴 | 🟢 |
